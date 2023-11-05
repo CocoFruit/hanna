@@ -1,0 +1,465 @@
+Bulbmin
+Dweevil
+Empress Bulblax
+Fiery Bulblax
+Gatling Groink
+Hocotate Freight
+Iridescent Flint Beetle
+Jellyfloat
+Koppai
+Louie
+Mamuta
+Nectar
+Onion
+Pikmin
+Quaggled Mireclops
+Red Bulborb
+Sagittarius
+Titan Dweevil
+Ultra-Bitter Spray
+Volatile Dweevil
+Wistful Wild
+Xenoflora
+Yellow Wollywog
+Zirconium Rotor
+Arachnorb
+Citadel of Spiders
+Dwarf Bulbear
+Eternal Fuel Dynamo
+Flint Beetle
+Geyser
+Hole of Heroes
+Ionium Jet
+King of Bugs
+Lily Pad
+Mockiwi
+Nectar Weed
+Orange Bulborb
+Piklopedia
+Queen Shearwig
+Ravenous Whiskerpillar
+Snooze Suit
+Territorial Piplup
+Antenna Beetle
+Bouncy Mushroom
+Crystal Clover
+Data Glutton
+Explorer's Friend
+Fruit File
+Gravity Jumper
+Harmless Iron Ball
+Interstellar Radio
+Jetpack
+Key
+Lustrous Element
+Microphone
+Nap Sack
+Obsidian Medallion
+Plasma Lamp
+Quark Drive
+Radiation Canopy
+Sagittarius
+Temporal Mechanism
+Universal Com
+Velocity Limiter
+Warp Drive
+Xenon Orb
+Ancient Ruins
+Bulblax Kingdom
+Citadel of Spiders
+Desolate Canyon
+Emergence Cave
+Frontier Cavern
+Garden of Hope
+Hole of Beasts
+Impact Site
+Jungle Pool
+Koppai
+Lush Life Murk
+Misty Bog
+Navel Rock
+Olimar's House
+Perplexing Pool
+Quaggled Mireclops
+Reform Ridge
+Spectral Garden
+The Forest of Hope
+Underground Complex
+Valley of Repose
+Wistful Wild
+Xenoflora
+Yellow Wollywog
+Zirconium Rotor
+Anti-Hiccup Fungus
+Bolstering Incense
+Citrus Lump
+Dulcis Frondes
+Eternal Fuel Dynamo
+Flukeweed
+Golden Sunseed
+Heroine's Tear
+Insect Condo
+Justice Alloy
+King of Sweets
+Lustrous Element
+Mystical Disc
+Nectar Weed
+Optical Illustration
+Plasm Wraith
+Queen's Guard
+Repugnant Appendage
+Sagittarius
+Temporal Mechanism
+Ursidae
+Vacuum Processor
+Wily Cat
+Analyzing Scope
+Berserker Brush
+Comedy Bomb
+Drain Fizz
+Endless Repository
+Fossilized Ursidae
+Galactic Compass
+Heavy Duty Magnetizer
+Infernal Vegetable
+Justice Alloy
+Koppad
+Lustrous Element
+Miniature Replica
+Nova Blaster
+Olimar's Spacesuit
+Petrified Heart
+Quenching Emblem
+Rubber Ugly
+Spiny Alien Treat
+Temporal Mechanism
+Ultra-Bitter Spray
+Vorpal Platter
+Winged Onion
+Xenon Orb
+Yellow Balloon
+Bouncy Mushroom
+Citrus Lump
+Data Stick
+Eternal Fuel Dynamo
+Fading Glory
+Golden Sunseed
+Hyper-precise Radar
+Indomitable CPU
+Jellyblob
+Key
+Lustrous Element
+Massive Receptacle
+Napsack
+Oxygen Gauge
+Petrified Heart
+Quenching Emblem
+Research Pod
+Sagittarius
+Temporal Mechanism
+Ultra-Bitter Spray
+Velvet Dreamer
+Wiry Woody
+Xenon Orb
+Yell Battery
+Anti-Hiccup Fungus
+Crystallized Telekinesis
+Dart Sundew
+Eternal Fuel Dynamo
+Flukeweed
+Gravity Jumper
+Hocotate Ship
+Intergalactic Communications
+Jellyblob
+Koppai
+Lustrous Element
+Mystical Disc
+Nectar Weed
+Olimar's Spacesuit
+Petrified Heart
+Quaggled Mireclops
+Radiation Canopy
+Sagittarius
+Temporal Mechanism
+Ultra-Bitter Spray
+Vegetable of Perpetual Youth
+Wollywog
+Xenon Orb
+Yellow Wollywog
+Zirconium Rotor
+Red Pikmin
+Yellow Pikmin
+Blue Pikmin
+Purple Pikmin
+White Pikmin
+Rock Pikmin
+Winged Pikmin
+Bulborb
+Dwarf
+Hairy
+Orange
+Bulbear
+Fiery
+Water
+Bulbmin
+Empress
+Emperor
+Empyrean
+Munge
+Fiery
+Anode
+Caustic
+Volatile
+Titan
+Aristocrab
+Blowhog
+Watery
+Puffy
+Withering
+Snitchbug
+Bumbling
+Chrysanthemum
+Skitter
+Desiccated
+Spectralids
+Mamuta
+Goolix
+Mitite
+Honeywisp
+Flint
+Glint
+Doodlebug
+Antenna
+Jellyfloat
+Shearwig
+Sheargrub
+Shearwater
+Wogpole
+Wollywog
+Yellow
+Fiery
+Rock
+Bloyster
+Ranging
+Snagret
+Pileated
+Shaggy
+Baldy
+Beady
+Careening
+Cannon
+Decorated
+Puffy
+Medusal
+Plasm
+Sandbelching
+Scornet
+Quaggled
+Crawmad
+Hermit
+Segmented
+Sputtlefish
+Crushblat
+Pyroclasmic
+Arctic
+Acidic
+Ampilus
+Skutterchuck
+Whiptongue
+Vehemoth
+Scutterchuck
+Coppeller
+Mockiwi
+Starnacle
+Elips
+Electric
+Flighty
+Joustmite
+Nectarous
+Crested
+Arachnode
+Sporegrub
+Spornet
+Blinnow
+Luring
+Waddlepus
+Toxiquill
+Candypop
+Ivory
+Golden
+Lapis
+Crimson
+Queen
+Pellet
+Posy
+Doodlebug
+Dirigibug
+Mitite
+Dumple
+Goolix
+Mamuta
+Wisp
+Breadbug
+Bulblax
+Dweevil
+Spectralids
+Beetle
+Long Legs
+Snagret
+Wollywog
+Chrysanthemum
+Bud
+Pellet
+Sunseed
+Stellar
+Geiger
+Satellite
+Stabilizer
+Gluon
+Lamp
+Zirconium
+Seat
+Bowsprit
+Chronos
+Udder
+Processor
+Onion
+Nectar
+Spray
+Sap
+Bridge
+Wall
+Gate
+Geyser
+Ship
+Hocotate
+Freight
+Drake
+Drive
+Key
+Hoard
+Log
+Hocotatian
+Koppaite
+Pikmin
+Planet
+Pool
+Wood
+Wild
+Repose
+Oak
+Hope
+Tundra
+Tropical
+River
+Battle
+Dolphin
+Cosmic
+Explorer
+Louie
+Olimar
+President
+Brittany
+Charlie
+Alph
+S.S.
+Drake
+Food
+Fruit
+Seed
+Berry
+Orb
+Counter
+Guard
+Drive
+Rotor
+Pilot
+Sprocket
+Reactor
+Rubber
+Processor
+Treasure
+Louie
+Brittany
+Charlie
+Alph
+Bingo
+Challenge
+Day
+Night
+Cave
+Sublevel
+Pellet
+Carrot
+Pumpkin
+Turnip
+Tomato
+Apple
+Banana
+Grape
+Lemon
+Lime
+Orange
+Peach
+Pear
+Plum
+Raspberry
+Strawberry
+Watermelon
+Artichoke
+Asparagus
+Aubergine
+Beans
+Beet
+Broccoli
+Cabbage
+Carrot
+Cauliflower
+Celery
+Corn
+Cucumber
+Garlic
+Kale
+Lettuce
+Mushroom
+Onion
+Peas
+Pepper
+Potato
+Pumpkin
+Radish
+Spinach
+Squash
+Tomato
+Turnip
+Yam
+Zucchini
+Bridge
+Card
+Crown
+Dice
+Domino
+Joker
+King
+Queen
+Rook
+Ace
+Bow
+Box
+Cube
+Doll
+Drum
+Game
+Kite
+Mask
+Pail
+Ring
+Rope
+Shell
+Star
+Tile
+Tube
+Vase
+Wand
+Wheel
+Yoyo
